@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Chào mừng đến blog của tôi"
+theme = "ananke"
